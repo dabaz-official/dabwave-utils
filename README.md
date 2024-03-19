@@ -1,2 +1,3 @@
-# dabwave-utils
+# @dabwave/utils
+
   DabWave Utils Ready to Use
